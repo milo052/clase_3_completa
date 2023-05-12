@@ -1,0 +1,117 @@
+header{
+padding: 0;
+
+background-color:blue;
+
+
+text-align: center;
+margin-left: 10px;
+border-bottom-style: solid;
+margin-left: 0;
+margin-right: 0;
+margin-bottom: 10px;
+padding-left: 0;
+padding-bottom: 5px;
+padding-top: 1px;
+
+
+}
+.nav{
+    text-decoration: none;
+}
+
+.ANPPadelSanNicolás{
+    color: chocolate;
+    font-size: 50px;
+    margin-bottom: 1px;
+    margin-top: 10px;
+
+}
+.Contacto{
+    color: aliceblue;
+    padding-right: 20px;
+    font-size: 20px;
+   
+}
+.Horariodeatención{
+    color: aliceblue;
+    padding-right: 20px;
+    font-size: 20px;
+}
+.Ranking{
+    color: aliceblue;
+    padding-right: 20px;
+    font-size: 20px;
+}
+.Información{
+    color: aliceblue;
+    padding-right: 20px;
+    font-size: 20px;
+}
+.Ubicación{
+    color: aliceblue;
+    padding-right: 20px;
+    font-size: 20px;
+}
+.Inicio{
+    color: aliceblue;
+    padding-right: 20px;
+    font-size: 20px;
+    
+}
+
+
+
+footer{
+    background-color: blue;
+    color: white;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 1;
+    padding-top: 1;
+    text-align: center;
+}
+a{ text-decoration: none;
+}
+.Facebook{
+    color: white;
+    text-decoration: none;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+
+}
+
+.Intagram{
+    color: white;
+    text-decoration: none;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+
+}
+.TikTok{
+    color: white;
+    text-decoration: none;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+
+}
+
+
+.box{
+    color: chartreuse;
+}
+.SEGUINOSEN{
+    color: white;
+}
+small{
+    color: chocolate;
+    text-align: center;
+}
+.tedsocial{color: white;
+}
